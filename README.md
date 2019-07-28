@@ -37,3 +37,12 @@ npm install
 2. Run the LIRI-Bot (refer to Modes of use)
 
 # Screenshots of the LIRI-Bot
+
+1. concert-this
+![concert](./screenshots/con.png)
+2. spotify-this-song
+![spotify-this](./screenshots/song.png)
+3. movie-this
+![movie-this](./screenshots/mov.png)
+4. do-what-it-says
+![do-what-it-says](./screenshots/do.png)
