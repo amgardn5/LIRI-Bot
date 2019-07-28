@@ -1,0 +1,20 @@
+{
+  "name": "LIRI-Bot",
+  "version": "1.0.0",
+  "description": "A CLI application to obtain information from Spotify API and OMDB API",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amgardn5/LIRI-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amgardn5/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/amgardn5/LIRI-Bot#readme"
+}
